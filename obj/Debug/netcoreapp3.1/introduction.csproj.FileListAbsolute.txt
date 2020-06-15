@@ -1,0 +1,13 @@
+C:\Users\Kerry\Desktop\csharp\introduction\obj\Debug\netcoreapp3.1\introduction.csprojAssemblyReference.cache
+C:\Users\Kerry\Desktop\csharp\introduction\obj\Debug\netcoreapp3.1\introduction.AssemblyInfoInputs.cache
+C:\Users\Kerry\Desktop\csharp\introduction\obj\Debug\netcoreapp3.1\introduction.AssemblyInfo.cs
+C:\Users\Kerry\Desktop\csharp\introduction\obj\Debug\netcoreapp3.1\introduction.csproj.CoreCompileInputs.cache
+C:\Users\Kerry\Desktop\csharp\introduction\bin\Debug\netcoreapp3.1\introduction.exe
+C:\Users\Kerry\Desktop\csharp\introduction\bin\Debug\netcoreapp3.1\introduction.deps.json
+C:\Users\Kerry\Desktop\csharp\introduction\bin\Debug\netcoreapp3.1\introduction.runtimeconfig.json
+C:\Users\Kerry\Desktop\csharp\introduction\bin\Debug\netcoreapp3.1\introduction.runtimeconfig.dev.json
+C:\Users\Kerry\Desktop\csharp\introduction\bin\Debug\netcoreapp3.1\introduction.dll
+C:\Users\Kerry\Desktop\csharp\introduction\bin\Debug\netcoreapp3.1\introduction.pdb
+C:\Users\Kerry\Desktop\csharp\introduction\obj\Debug\netcoreapp3.1\introduction.dll
+C:\Users\Kerry\Desktop\csharp\introduction\obj\Debug\netcoreapp3.1\introduction.pdb
+C:\Users\Kerry\Desktop\csharp\introduction\obj\Debug\netcoreapp3.1\introduction.genruntimeconfig.cache
